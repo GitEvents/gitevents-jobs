@@ -1,7 +1,6 @@
 {
   "name": "gitevents-jobs",
   "version": "0.0.1",
-  "private": false,
   "main": "index.js",
   "repository": "https://github.com/gitevents/gitevents-jobs.git",
   "scripts": {
